@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(213, 189, 175);
+}
+
+#navbar {
+  background-color: rgb(213, 189, 175);
+}
+
+
+.cajitaColor {
+  background-color: rgb(173, 181, 189);
+}
+
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(FontsFree-Net-CircularStd-Black.ttf);
+}
+
+* {
+  font-family: myFirstFont;
+}
+
+#container {
+  justify-content: center;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+}
+
+h1 {
+  font-size: 15px;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+button {
+  margin: 10px;
+
+}
